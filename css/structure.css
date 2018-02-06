@@ -42,10 +42,12 @@ table {
 }
 .header{
     display: grid;
-    border: 1px solid #000;
     grid-template-columns: 20% 20% 20% 20% 20%;
     grid-column-gap: 15px;
     background-color: black;
     height: 100px;
+    
+}
+.header-item{
     
 }
